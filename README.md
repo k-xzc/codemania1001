@@ -3,11 +3,11 @@
 #### Gist : https://gist.github.com/kantsuw
 
 # Test Server (In case don't want to install, However this server will be terminated at 30 June) 
-#### Elasticsearch Test Server  : kantz.space:9200
-#### Prometheus Test Server  : kantz.space:9090
-#### Influxdb Test Server  : kantz.space:8086
-#### Grafana Test Server  : kantz.space:3000
-#### TeamCity Test Server  : kantz.space:8111
+#### Elasticsearch Test Server  : http://kantz.space:9200
+#### Prometheus Test Server     : http://kantz.space:9090
+#### Influxdb Test Server       : http://kantz.space:8086
+#### Grafana Test Server        : http://kantz.space:3000
+#### TeamCity Test Server       : http://kantz.space:8111
 
 # Demo Application Github 
 ### https://github.com/kantsuw/BXtoES
